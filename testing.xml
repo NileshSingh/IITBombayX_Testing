@@ -1,0 +1,28 @@
+<suite name= "Automation Testing IITBombayX Using Selenium">
+<test name="Home Page of IITBombayX" >
+
+<classes>
+
+<class name="iitbombayX_homePage_test.Homepage_header_Navlinks_test" />
+<class name="iitbombayX_homePage_test.home_footer_nav_link" />
+<class name="iitbombayX_homePage_test.homePage_text" />
+<class name="iitbombayX_homePage_test.home_content_font" />
+</classes>
+
+
+</test>
+<test name="Registration Page of IITBombayX" >
+<classes>
+<class name="iitbombayX.registrationPage.test_registration_page" />
+<class name="iitbombayX.registrationPage.registrationPage_header_link" /> 
+<class name="iitbombayX.registrationPage.content_test" />
+
+</classes>
+</test>
+<test name="Login Page of IITBombayX" >
+<classes>
+<class name="iitbombayX.loginPage.testLoginPage" />
+</classes>
+</test>
+
+</suite>

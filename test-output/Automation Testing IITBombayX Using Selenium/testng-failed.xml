@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation Testing IITBombayX Using Selenium]">
+  <test name="Registration Page of IITBombayX(failed)">
+    <classes>
+      <class name="iitbombayX_homePage_test.home_content_font">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- iitbombayX_homePage_test.home_content_font -->
+      <class name="iitbombayX_homePage_test.homePage_text">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- iitbombayX_homePage_test.homePage_text -->
+      <class name="iitbombayX_homePage_test.home_footer_nav_link">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- iitbombayX_homePage_test.home_footer_nav_link -->
+      <class name="iitbombayX.registrationPage.content_test">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- iitbombayX.registrationPage.content_test -->
+      <class name="iitbombayX_homePage_test.Homepage_header_Navlinks_test">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- iitbombayX_homePage_test.Homepage_header_Navlinks_test -->
+      <class name="iitbombayX.loginPage.testLoginPage">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- iitbombayX.loginPage.testLoginPage -->
+      <class name="iitbombayX.registrationPage.test_registration_page">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="testRegPage"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- iitbombayX.registrationPage.test_registration_page -->
+      <class name="iitbombayX.registrationPage.registrationPage_header_link">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- iitbombayX.registrationPage.registrationPage_header_link -->
+    </classes>
+  </test> <!-- Registration Page of IITBombayX(failed) -->
+</suite> <!-- Failed suite [Automation Testing IITBombayX Using Selenium] -->
