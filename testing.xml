@@ -1,28 +1,42 @@
-<suite name= "Automation Testing IITBombayX Using Selenium">
-<test name="Home Page of IITBombayX" >
+<suite name="Automation Testing IITBombayX Using Selenium">
+	<test name="Home Page of IITBombayX">
 
-<classes>
+		<classes>
 
-<class name="iitbombayX_homePage_test.Homepage_header_Navlinks_test" />
-<class name="iitbombayX_homePage_test.home_footer_nav_link" />
-<class name="iitbombayX_homePage_test.homePage_text" />
-<class name="iitbombayX_homePage_test.home_content_font" />
-</classes>
+			<class name="iitbombayX_homePage_test.Homepage_header_Navlinks_test" />
+			<class name="iitbombayX_homePage_test.home_footer_nav_link" />
+			<class name="iitbombayX_homePage_test.homePage_text" />
+			<class name="iitbombayX_homePage_test.home_content_font" />
+		</classes>
 
 
-</test>
-<test name="Registration Page of IITBombayX" >
-<classes>
-<class name="iitbombayX.registrationPage.test_registration_page" />
-<class name="iitbombayX.registrationPage.registrationPage_header_link" /> 
-<class name="iitbombayX.registrationPage.content_test" />
+	</test>
+	<test name="Registration Page of IITBombayX">
+		<classes>
 
-</classes>
-</test>
-<test name="Login Page of IITBombayX" >
-<classes>
-<class name="iitbombayX.loginPage.testLoginPage" />
-</classes>
-</test>
+			<class name="iitbombayX.registrationPage.registrationPage_header_link" />
+			<class name="iitbombayX.registrationPage.content_test" />
+			<class name="iitbombayX.registrationPage.test_registration_page" />
+		</classes>
+	</test>
+	<test name="Login Page of IITBombayX">
+		<classes>
+			<class name="iitbombayX.loginPage.testLoginPage" />
+		</classes>
+	</test>
+
+	<test name="Faq page of  IITBombayX">
+
+		<classes>
+
+			<class name="HomeToFAQ_page_test.faq_LEARNERS_content_page" />
+			<class name="HomeToFAQ_page_test.faqLeft_Panel_navLink_test" />
+			<class name="HomeToFAQ_page_test.FAQpage_header_Navlinks_test" />
+			<class name="HomeToFAQ_page_test.homeToFAQ_footer_nav_link" />
+			<class name="HomeToFAQ_page_test.faq_On_FaqPage" />
+		</classes>
+
+
+	</test>
 
 </suite>
