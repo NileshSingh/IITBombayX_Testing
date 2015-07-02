@@ -22,7 +22,7 @@ public class home_content_font {
 	private WebDriver driver;
 	WebElement byId,byId1,byId2,byId3,byId4,byId5,byId6,byId7,byId8,byId9,byId10,byId11;
 	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";  
-	   static final String DB_URL = "jdbc:mysql://localhost/testJDBC";
+	static final String DB_URL = "jdbc:mysql://localhost/testJDBC";
 
 	   //  Database credentials
 	   static final String USER = "root";

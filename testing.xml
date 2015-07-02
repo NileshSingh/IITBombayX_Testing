@@ -21,6 +21,8 @@
 	</test>
 	<test name="Login Page of IITBombayX">
 		<classes>
+			<class name="iitbombayX.loginPage.ForgotPassword" />
+			<class name="iitbombayX.loginPage.HeaderLink" />
 			<class name="iitbombayX.loginPage.testLoginPage" />
 		</classes>
 	</test>
@@ -34,6 +36,33 @@
 			<class name="HomeToFAQ_page_test.FAQpage_header_Navlinks_test" />
 			<class name="HomeToFAQ_page_test.homeToFAQ_footer_nav_link" />
 			<class name="HomeToFAQ_page_test.faq_On_FaqPage" />
+		</classes>
+
+
+	</test>
+	
+	<test name="Course Structure of IITBombayX">
+
+		<classes>
+
+			<class name="iitbombayX.TS04.TS04_TC01" />
+			<class name="iitbombayX.TS04.TS04_TC02" />
+			<class name="iitbombayX.TS04.TS04_TC03" />
+			
+		</classes>
+
+
+	</test>
+	
+	<test name="Course videos of  IITBombayX">
+
+		<classes>
+
+			<class name="iitbombayX.TS05.TS05_TC01" />
+			<class name="iitbombayX.TS05.TS05_TC02" />
+			<class name="iitbombayX.TS05.TS05_TC04" />
+			
+			
 		</classes>
 
 

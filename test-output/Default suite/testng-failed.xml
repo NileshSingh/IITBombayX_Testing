@@ -3,85 +3,13 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="iitbombayX.registrationPage.test_registration_page">
+      <class name="iitbombayX.TS05.TS05_TC04">
         <methods>
           <include name="afterMethod"/>
-          <include name="testRegPage"/>
+          <include name="download_transcript_video"/>
           <include name="beforeMethod"/>
         </methods>
-      </class> <!-- iitbombayX.registrationPage.test_registration_page -->
-      <class name="HomeToFAQ_page_test.faq_LEARNERS_content_page">
-        <methods>
-          <include name="beforeMethod"/>
-          <include name="afterMethod"/>
-        </methods>
-      </class> <!-- HomeToFAQ_page_test.faq_LEARNERS_content_page -->
-      <class name="iitbombayX_homePage_test.Homepage_header_Navlinks_test">
-        <methods>
-          <include name="beforeMethod"/>
-          <include name="afterMethod"/>
-        </methods>
-      </class> <!-- iitbombayX_homePage_test.Homepage_header_Navlinks_test -->
-      <class name="iitbombayX_homePage_test.homePage_text">
-        <methods>
-          <include name="afterMethod"/>
-          <include name="beforeMethod"/>
-        </methods>
-      </class> <!-- iitbombayX_homePage_test.homePage_text -->
-      <class name="HomeToFAQ_page_test.FAQpage_header_Navlinks_test">
-        <methods>
-          <include name="afterMethod"/>
-          <include name="beforeMethod"/>
-        </methods>
-      </class> <!-- HomeToFAQ_page_test.FAQpage_header_Navlinks_test -->
-      <class name="iitbombayX.loginPage.testLoginPage">
-        <methods>
-          <include name="afterMethod"/>
-          <include name="beforeMethod"/>
-        </methods>
-      </class> <!-- iitbombayX.loginPage.testLoginPage -->
-      <class name="HomeToFAQ_page_test.homeToFAQ_footer_nav_link">
-        <methods>
-          <include name="beforeMethod"/>
-          <include name="afterMethod"/>
-        </methods>
-      </class> <!-- HomeToFAQ_page_test.homeToFAQ_footer_nav_link -->
-      <class name="iitbombayX_homePage_test.home_footer_nav_link">
-        <methods>
-          <include name="beforeMethod"/>
-          <include name="afterMethod"/>
-        </methods>
-      </class> <!-- iitbombayX_homePage_test.home_footer_nav_link -->
-      <class name="iitbombayX_homePage_test.home_content_font">
-        <methods>
-          <include name="beforeMethod"/>
-          <include name="afterMethod"/>
-        </methods>
-      </class> <!-- iitbombayX_homePage_test.home_content_font -->
-      <class name="iitbombayX.registrationPage.registrationPage_header_link">
-        <methods>
-          <include name="afterMethod"/>
-          <include name="beforeMethod"/>
-        </methods>
-      </class> <!-- iitbombayX.registrationPage.registrationPage_header_link -->
-      <class name="iitbombayX.registrationPage.content_test">
-        <methods>
-          <include name="beforeMethod"/>
-          <include name="afterMethod"/>
-        </methods>
-      </class> <!-- iitbombayX.registrationPage.content_test -->
-      <class name="HomeToFAQ_page_test.faqLeft_Panel_navLink_test">
-        <methods>
-          <include name="beforeMethod"/>
-          <include name="afterMethod"/>
-        </methods>
-      </class> <!-- HomeToFAQ_page_test.faqLeft_Panel_navLink_test -->
-      <class name="HomeToFAQ_page_test.faq_On_FaqPage">
-        <methods>
-          <include name="beforeMethod"/>
-          <include name="afterMethod"/>
-        </methods>
-      </class> <!-- HomeToFAQ_page_test.faq_On_FaqPage -->
+      </class> <!-- iitbombayX.TS05.TS05_TC04 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

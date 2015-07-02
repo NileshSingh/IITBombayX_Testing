@@ -38,7 +38,7 @@ public class testLoginPage {
     driver.findElement(By.id("email")).clear();
     driver.findElement(By.id("email")).sendKeys("raj88.007@gmail.com");
     driver.findElement(By.id("password")).clear();
-    driver.findElement(By.id("password")).sendKeys("design1234");
+    driver.findElement(By.id("password")).sendKeys("design12345");
     driver.findElement(By.id("remember-yes")).click();
     driver.findElement(By.id("submit")).click();
     driver.findElement(By.linkText("edit")).click();

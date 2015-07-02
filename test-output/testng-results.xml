@@ -1,127 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" total="13" passed="12">
+<testng-results skipped="0" failed="6" total="20" passed="14">
   <reporter-output>
   </reporter-output>
-  <suite name="Automation Testing IITBombayX Using Selenium" duration-ms="105117" started-at="2015-06-08T23:36:15Z" finished-at="2015-06-08T23:38:00Z">
+  <suite name="Automation Testing IITBombayX Using Selenium" duration-ms="362033" started-at="2015-07-02T04:30:14Z" finished-at="2015-07-02T04:36:16Z">
     <groups>
     </groups>
-    <test name="Home Page of IITBombayX" duration-ms="33284" started-at="2015-06-08T23:36:15Z" finished-at="2015-06-08T23:36:48Z">
+    <test name="Home Page of IITBombayX" duration-ms="60600" started-at="2015-07-02T04:30:14Z" finished-at="2015-07-02T04:31:15Z">
       <class name="iitbombayX_homePage_test.home_footer_nav_link">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX_homePage_test.home_footer_nav_link@3e3bba3d]" name="beforeMethod" is-config="true" duration-ms="4989" started-at="2015-06-09T05:06:31Z" finished-at="2015-06-09T05:06:36Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX_homePage_test.home_footer_nav_link@148ccb8]" name="beforeMethod" is-config="true" duration-ms="5694" started-at="2015-07-02T10:00:42Z" finished-at="2015-07-02T10:00:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testHomeFooterNav()[pri:0, instance:iitbombayX_homePage_test.home_footer_nav_link@3e3bba3d]" name="testHomeFooterNav" duration-ms="3623" started-at="2015-06-09T05:06:36Z" finished-at="2015-06-09T05:06:40Z">
+        <test-method status="PASS" signature="testHomeFooterNav()[pri:0, instance:iitbombayX_homePage_test.home_footer_nav_link@148ccb8]" name="testHomeFooterNav" duration-ms="8471" started-at="2015-07-02T10:00:48Z" finished-at="2015-07-02T10:00:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHomeFooterNav -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX_homePage_test.home_footer_nav_link@3e3bba3d]" name="afterMethod" is-config="true" duration-ms="65" started-at="2015-06-09T05:06:40Z" finished-at="2015-06-09T05:06:40Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX_homePage_test.home_footer_nav_link@148ccb8]" name="afterMethod" is-config="true" duration-ms="207" started-at="2015-07-02T10:00:56Z" finished-at="2015-07-02T10:00:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- iitbombayX_homePage_test.home_footer_nav_link -->
       <class name="iitbombayX_homePage_test.home_content_font">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX_homePage_test.home_content_font@43401ab6]" name="beforeMethod" is-config="true" duration-ms="3617" started-at="2015-06-09T05:06:44Z" finished-at="2015-06-09T05:06:48Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX_homePage_test.home_content_font@30d5aa]" name="beforeMethod" is-config="true" duration-ms="6660" started-at="2015-07-02T10:01:06Z" finished-at="2015-07-02T10:01:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="check_content()[pri:0, instance:iitbombayX_homePage_test.home_content_font@43401ab6]" name="check_content" duration-ms="237" started-at="2015-06-09T05:06:48Z" finished-at="2015-06-09T05:06:48Z">
+        <test-method status="PASS" signature="check_content()[pri:0, instance:iitbombayX_homePage_test.home_content_font@30d5aa]" name="check_content" duration-ms="2417" started-at="2015-07-02T10:01:12Z" finished-at="2015-07-02T10:01:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- check_content -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX_homePage_test.home_content_font@43401ab6]" name="afterMethod" is-config="true" duration-ms="66" started-at="2015-06-09T05:06:48Z" finished-at="2015-06-09T05:06:48Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX_homePage_test.home_content_font@30d5aa]" name="afterMethod" is-config="true" duration-ms="136" started-at="2015-07-02T10:01:15Z" finished-at="2015-07-02T10:01:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- iitbombayX_homePage_test.home_content_font -->
       <class name="iitbombayX_homePage_test.Homepage_header_Navlinks_test">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX_homePage_test.Homepage_header_Navlinks_test@1691cd46]" name="beforeMethod" is-config="true" duration-ms="8737" started-at="2015-06-09T05:06:15Z" finished-at="2015-06-09T05:06:24Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX_homePage_test.Homepage_header_Navlinks_test@782dc6]" name="beforeMethod" is-config="true" duration-ms="11232" started-at="2015-07-02T10:00:14Z" finished-at="2015-07-02T10:00:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testHomePage()[pri:0, instance:iitbombayX_homePage_test.Homepage_header_Navlinks_test@1691cd46]" name="testHomePage" duration-ms="7449" started-at="2015-06-09T05:06:24Z" finished-at="2015-06-09T05:06:31Z">
+        <test-method status="PASS" signature="testHomePage()[pri:0, instance:iitbombayX_homePage_test.Homepage_header_Navlinks_test@782dc6]" name="testHomePage" duration-ms="16363" started-at="2015-07-02T10:00:26Z" finished-at="2015-07-02T10:00:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHomePage -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX_homePage_test.Homepage_header_Navlinks_test@1691cd46]" name="afterMethod" is-config="true" duration-ms="188" started-at="2015-06-09T05:06:31Z" finished-at="2015-06-09T05:06:31Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX_homePage_test.Homepage_header_Navlinks_test@782dc6]" name="afterMethod" is-config="true" duration-ms="248" started-at="2015-07-02T10:00:42Z" finished-at="2015-07-02T10:00:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- iitbombayX_homePage_test.Homepage_header_Navlinks_test -->
       <class name="iitbombayX_homePage_test.homePage_text">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX_homePage_test.homePage_text@498dce5b]" name="beforeMethod" is-config="true" duration-ms="3569" started-at="2015-06-09T05:06:40Z" finished-at="2015-06-09T05:06:43Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX_homePage_test.homePage_text@de9984]" name="beforeMethod" is-config="true" duration-ms="6089" started-at="2015-07-02T10:00:57Z" finished-at="2015-07-02T10:01:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="text_onPage()[pri:0, instance:iitbombayX_homePage_test.homePage_text@498dce5b]" name="text_onPage" duration-ms="660" started-at="2015-06-09T05:06:43Z" finished-at="2015-06-09T05:06:44Z">
+        <test-method status="PASS" signature="text_onPage()[pri:0, instance:iitbombayX_homePage_test.homePage_text@de9984]" name="text_onPage" duration-ms="2933" started-at="2015-07-02T10:01:03Z" finished-at="2015-07-02T10:01:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- text_onPage -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX_homePage_test.homePage_text@498dce5b]" name="afterMethod" is-config="true" duration-ms="64" started-at="2015-06-09T05:06:44Z" finished-at="2015-06-09T05:06:44Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX_homePage_test.homePage_text@de9984]" name="afterMethod" is-config="true" duration-ms="136" started-at="2015-07-02T10:01:06Z" finished-at="2015-07-02T10:01:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- iitbombayX_homePage_test.homePage_text -->
     </test> <!-- Home Page of IITBombayX -->
-    <test name="Registration Page of IITBombayX" duration-ms="30625" started-at="2015-06-08T23:36:48Z" finished-at="2015-06-08T23:37:19Z">
+    <test name="Registration Page of IITBombayX" duration-ms="47765" started-at="2015-07-02T04:31:15Z" finished-at="2015-07-02T04:32:03Z">
       <class name="iitbombayX.registrationPage.registrationPage_header_link">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX.registrationPage.registrationPage_header_link@5bbb8077]" name="beforeMethod" is-config="true" duration-ms="3814" started-at="2015-06-09T05:06:48Z" finished-at="2015-06-09T05:06:52Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX.registrationPage.registrationPage_header_link@5f62a9]" name="beforeMethod" is-config="true" duration-ms="6165" started-at="2015-07-02T10:01:15Z" finished-at="2015-07-02T10:01:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="registration_header_nav()[pri:0, instance:iitbombayX.registrationPage.registrationPage_header_link@5bbb8077]" name="registration_header_nav" duration-ms="5741" started-at="2015-06-09T05:06:52Z" finished-at="2015-06-09T05:06:58Z">
+        <test-method status="PASS" signature="registration_header_nav()[pri:0, instance:iitbombayX.registrationPage.registrationPage_header_link@5f62a9]" name="registration_header_nav" duration-ms="12301" started-at="2015-07-02T10:01:21Z" finished-at="2015-07-02T10:01:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration_header_nav -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX.registrationPage.registrationPage_header_link@5bbb8077]" name="afterMethod" is-config="true" duration-ms="66" started-at="2015-06-09T05:06:58Z" finished-at="2015-06-09T05:06:58Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX.registrationPage.registrationPage_header_link@5f62a9]" name="afterMethod" is-config="true" duration-ms="410" started-at="2015-07-02T10:01:34Z" finished-at="2015-07-02T10:01:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- iitbombayX.registrationPage.registrationPage_header_link -->
-      <class name="iitbombayX.registrationPage.content_test">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX.registrationPage.content_test@3629ddce]" name="beforeMethod" is-config="true" duration-ms="3607" started-at="2015-06-09T05:06:58Z" finished-at="2015-06-09T05:07:01Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="RegistrationPageContent()[pri:0, instance:iitbombayX.registrationPage.content_test@3629ddce]" name="RegistrationPageContent" duration-ms="636" started-at="2015-06-09T05:07:01Z" finished-at="2015-06-09T05:07:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- RegistrationPageContent -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX.registrationPage.content_test@3629ddce]" name="afterMethod" is-config="true" duration-ms="62" started-at="2015-06-09T05:07:02Z" finished-at="2015-06-09T05:07:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-      </class> <!-- iitbombayX.registrationPage.content_test -->
       <class name="iitbombayX.registrationPage.test_registration_page">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX.registrationPage.test_registration_page@72ef33ad]" name="beforeMethod" is-config="true" duration-ms="3790" started-at="2015-06-09T05:07:02Z" finished-at="2015-06-09T05:07:06Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX.registrationPage.test_registration_page@3bed68]" name="beforeMethod" is-config="true" duration-ms="5965" started-at="2015-07-02T10:01:43Z" finished-at="2015-07-02T10:01:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="testRegPage()[pri:0, instance:iitbombayX.registrationPage.test_registration_page@72ef33ad]" name="testRegPage" duration-ms="12823" started-at="2015-06-09T05:07:06Z" finished-at="2015-06-09T05:07:19Z">
+        <test-method status="FAIL" signature="testRegPage()[pri:0, instance:iitbombayX.registrationPage.test_registration_page@3bed68]" name="testRegPage" duration-ms="13535" started-at="2015-07-02T10:01:49Z" finished-at="2015-07-02T10:02:03Z">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[Unable to locate element: {"method":"xpath","selector":"html/body/div[1]/header/nav/ol[2]/li[2]/a"}
-Command duration or timeout: 10.05 seconds
+Command duration or timeout: 10.08 seconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
-System info: host: 'iitb-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-30-generic', java.version: '1.7.0_79'
-Session ID: 6c2f85a8-abf7-402a-9ee3-2f5289b3f663
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: f8b17d3d-07f9-45a4-9749-48c9b8e7c9e3
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]]]>
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=13.0.1}]]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"html/body/div[1]/header/nav/ol[2]/li[2]/a"}
-Command duration or timeout: 10.05 seconds
+Command duration or timeout: 10.08 seconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
-System info: host: 'iitb-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-30-generic', java.version: '1.7.0_79'
-Session ID: 6c2f85a8-abf7-402a-9ee3-2f5289b3f663
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: f8b17d3d-07f9-45a4-9749-48c9b8e7c9e3
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=13.0.1}]
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
 	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
 	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
@@ -131,9 +117,9 @@ Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssS
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
 	at iitbombayX.registrationPage.test_registration_page.testRegPage(test_registration_page.java:60)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:606)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
 	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
@@ -157,109 +143,546 @@ Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssS
 Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"html/body/div[1]/header/nav/ol[2]/li[2]/a"}
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
-System info: host: 'iitb-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-30-generic', java.version: '1.7.0_79'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
 Driver info: driver.version: unknown
-	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///tmp/anonymous5111043376810991269webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9641:26)
-	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///tmp/anonymous5111043376810991269webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:548:5)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous5369541885200102094webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9641)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous5369541885200102094webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:548)
 ]]>
             </full-stacktrace>
           </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegPage -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX.registrationPage.test_registration_page@72ef33ad]" name="afterMethod" is-config="true" duration-ms="66" started-at="2015-06-09T05:07:19Z" finished-at="2015-06-09T05:07:19Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX.registrationPage.test_registration_page@3bed68]" name="afterMethod" is-config="true" duration-ms="127" started-at="2015-07-02T10:02:03Z" finished-at="2015-07-02T10:02:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- iitbombayX.registrationPage.test_registration_page -->
-    </test> <!-- Registration Page of IITBombayX -->
-    <test name="Login Page of IITBombayX" duration-ms="6226" started-at="2015-06-08T23:37:19Z" finished-at="2015-06-08T23:37:25Z">
-      <class name="iitbombayX.loginPage.testLoginPage">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX.loginPage.testLoginPage@78615c8b]" name="beforeMethod" is-config="true" duration-ms="3525" started-at="2015-06-09T05:07:19Z" finished-at="2015-06-09T05:07:22Z">
+      <class name="iitbombayX.registrationPage.content_test">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX.registrationPage.content_test@4651bf]" name="beforeMethod" is-config="true" duration-ms="5870" started-at="2015-07-02T10:01:34Z" finished-at="2015-07-02T10:01:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testLoginPage()[pri:0, instance:iitbombayX.loginPage.testLoginPage@78615c8b]" name="testLoginPage" duration-ms="2637" started-at="2015-06-09T05:07:22Z" finished-at="2015-06-09T05:07:25Z">
+        <test-method status="PASS" signature="RegistrationPageContent()[pri:0, instance:iitbombayX.registrationPage.content_test@4651bf]" name="RegistrationPageContent" duration-ms="3236" started-at="2015-07-02T10:01:40Z" finished-at="2015-07-02T10:01:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationPageContent -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX.registrationPage.content_test@4651bf]" name="afterMethod" is-config="true" duration-ms="151" started-at="2015-07-02T10:01:43Z" finished-at="2015-07-02T10:01:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- iitbombayX.registrationPage.content_test -->
+    </test> <!-- Registration Page of IITBombayX -->
+    <test name="Login Page of IITBombayX" duration-ms="39491" started-at="2015-07-02T04:32:03Z" finished-at="2015-07-02T04:32:42Z">
+      <class name="iitbombayX.loginPage.testLoginPage">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX.loginPage.testLoginPage@1048099]" name="beforeMethod" is-config="true" duration-ms="6710" started-at="2015-07-02T10:02:30Z" finished-at="2015-07-02T10:02:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLoginPage()[pri:0, instance:iitbombayX.loginPage.testLoginPage@1048099]" name="testLoginPage" duration-ms="5589" started-at="2015-07-02T10:02:37Z" finished-at="2015-07-02T10:02:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginPage -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX.loginPage.testLoginPage@78615c8b]" name="afterMethod" is-config="true" duration-ms="63" started-at="2015-06-09T05:07:25Z" finished-at="2015-06-09T05:07:25Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX.loginPage.testLoginPage@1048099]" name="afterMethod" is-config="true" duration-ms="181" started-at="2015-07-02T10:02:42Z" finished-at="2015-07-02T10:02:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- iitbombayX.loginPage.testLoginPage -->
-    </test> <!-- Login Page of IITBombayX -->
-    <test name="Faq page of  IITBombayX" duration-ms="34922" started-at="2015-06-08T23:37:25Z" finished-at="2015-06-08T23:38:00Z">
-      <class name="HomeToFAQ_page_test.faq_On_FaqPage">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:HomeToFAQ_page_test.faq_On_FaqPage@2a2eeff0]" name="beforeMethod" is-config="true" duration-ms="3828" started-at="2015-06-09T05:07:56Z" finished-at="2015-06-09T05:08:00Z">
+      <class name="iitbombayX.loginPage.ForgotPassword">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX.loginPage.ForgotPassword@96ed8b]" name="beforeMethod" is-config="true" duration-ms="6327" started-at="2015-07-02T10:02:03Z" finished-at="2015-07-02T10:02:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="faqOf_FaqPage()[pri:0, instance:HomeToFAQ_page_test.faq_On_FaqPage@2a2eeff0]" name="faqOf_FaqPage" duration-ms="248" started-at="2015-06-09T05:08:00Z" finished-at="2015-06-09T05:08:00Z">
+        <test-method status="PASS" signature="testResetPassword()[pri:0, instance:iitbombayX.loginPage.ForgotPassword@96ed8b]" name="testResetPassword" duration-ms="20500" started-at="2015-07-02T10:02:09Z" finished-at="2015-07-02T10:02:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResetPassword -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX.loginPage.ForgotPassword@96ed8b]" name="afterMethod" is-config="true" duration-ms="184" started-at="2015-07-02T10:02:30Z" finished-at="2015-07-02T10:02:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- iitbombayX.loginPage.ForgotPassword -->
+    </test> <!-- Login Page of IITBombayX -->
+    <test name="Faq page of  IITBombayX" duration-ms="66734" started-at="2015-07-02T04:32:42Z" finished-at="2015-07-02T04:33:49Z">
+      <class name="HomeToFAQ_page_test.faq_On_FaqPage">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:HomeToFAQ_page_test.faq_On_FaqPage@8f337b]" name="beforeMethod" is-config="true" duration-ms="5939" started-at="2015-07-02T10:03:41Z" finished-at="2015-07-02T10:03:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="faqOf_FaqPage()[pri:0, instance:HomeToFAQ_page_test.faq_On_FaqPage@8f337b]" name="faqOf_FaqPage" duration-ms="2258" started-at="2015-07-02T10:03:47Z" finished-at="2015-07-02T10:03:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faqOf_FaqPage -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:HomeToFAQ_page_test.faq_On_FaqPage@2a2eeff0]" name="afterMethod" is-config="true" duration-ms="67" started-at="2015-06-09T05:08:00Z" finished-at="2015-06-09T05:08:00Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:HomeToFAQ_page_test.faq_On_FaqPage@8f337b]" name="afterMethod" is-config="true" duration-ms="152" started-at="2015-07-02T10:03:49Z" finished-at="2015-07-02T10:03:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- HomeToFAQ_page_test.faq_On_FaqPage -->
       <class name="HomeToFAQ_page_test.faq_LEARNERS_content_page">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:HomeToFAQ_page_test.faq_LEARNERS_content_page@14828232]" name="beforeMethod" is-config="true" duration-ms="3884" started-at="2015-06-09T05:07:25Z" finished-at="2015-06-09T05:07:29Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:HomeToFAQ_page_test.faq_LEARNERS_content_page@1ddbcb1]" name="beforeMethod" is-config="true" duration-ms="5932" started-at="2015-07-02T10:02:42Z" finished-at="2015-07-02T10:02:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="FAQ_content_page()[pri:0, instance:HomeToFAQ_page_test.faq_LEARNERS_content_page@14828232]" name="FAQ_content_page" duration-ms="1443" started-at="2015-06-09T05:07:29Z" finished-at="2015-06-09T05:07:30Z">
+        <test-method status="PASS" signature="FAQ_content_page()[pri:0, instance:HomeToFAQ_page_test.faq_LEARNERS_content_page@1ddbcb1]" name="FAQ_content_page" duration-ms="5157" started-at="2015-07-02T10:02:48Z" finished-at="2015-07-02T10:02:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FAQ_content_page -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:HomeToFAQ_page_test.faq_LEARNERS_content_page@14828232]" name="afterMethod" is-config="true" duration-ms="63" started-at="2015-06-09T05:07:30Z" finished-at="2015-06-09T05:07:30Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:HomeToFAQ_page_test.faq_LEARNERS_content_page@1ddbcb1]" name="afterMethod" is-config="true" duration-ms="131" started-at="2015-07-02T10:02:53Z" finished-at="2015-07-02T10:02:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- HomeToFAQ_page_test.faq_LEARNERS_content_page -->
       <class name="HomeToFAQ_page_test.FAQpage_header_Navlinks_test">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:HomeToFAQ_page_test.FAQpage_header_Navlinks_test@6f8a8b32]" name="beforeMethod" is-config="true" duration-ms="3635" started-at="2015-06-09T05:07:38Z" finished-at="2015-06-09T05:07:42Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:HomeToFAQ_page_test.FAQpage_header_Navlinks_test@ae735]" name="beforeMethod" is-config="true" duration-ms="6282" started-at="2015-07-02T10:03:08Z" finished-at="2015-07-02T10:03:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testHomeToFaqHeadernavLink()[pri:0, instance:HomeToFAQ_page_test.FAQpage_header_Navlinks_test@6f8a8b32]" name="testHomeToFaqHeadernavLink" duration-ms="6681" started-at="2015-06-09T05:07:42Z" finished-at="2015-06-09T05:07:48Z">
+        <test-method status="PASS" signature="testHomeToFaqHeadernavLink()[pri:0, instance:HomeToFAQ_page_test.FAQpage_header_Navlinks_test@ae735]" name="testHomeToFaqHeadernavLink" duration-ms="13919" started-at="2015-07-02T10:03:14Z" finished-at="2015-07-02T10:03:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHomeToFaqHeadernavLink -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:HomeToFAQ_page_test.FAQpage_header_Navlinks_test@6f8a8b32]" name="afterMethod" is-config="true" duration-ms="63" started-at="2015-06-09T05:07:48Z" finished-at="2015-06-09T05:07:49Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:HomeToFAQ_page_test.FAQpage_header_Navlinks_test@ae735]" name="afterMethod" is-config="true" duration-ms="189" started-at="2015-07-02T10:03:28Z" finished-at="2015-07-02T10:03:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- HomeToFAQ_page_test.FAQpage_header_Navlinks_test -->
       <class name="HomeToFAQ_page_test.faqLeft_Panel_navLink_test">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:HomeToFAQ_page_test.faqLeft_Panel_navLink_test@431ab23]" name="beforeMethod" is-config="true" duration-ms="3702" started-at="2015-06-09T05:07:30Z" finished-at="2015-06-09T05:07:34Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:HomeToFAQ_page_test.faqLeft_Panel_navLink_test@17cd18d]" name="beforeMethod" is-config="true" duration-ms="6008" started-at="2015-07-02T10:02:54Z" finished-at="2015-07-02T10:03:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testFAQLeftPanel()[pri:0, instance:HomeToFAQ_page_test.faqLeft_Panel_navLink_test@431ab23]" name="testFAQLeftPanel" duration-ms="4030" started-at="2015-06-09T05:07:34Z" finished-at="2015-06-09T05:07:38Z">
+        <test-method status="PASS" signature="testFAQLeftPanel()[pri:0, instance:HomeToFAQ_page_test.faqLeft_Panel_navLink_test@17cd18d]" name="testFAQLeftPanel" duration-ms="8107" started-at="2015-07-02T10:03:00Z" finished-at="2015-07-02T10:03:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFAQLeftPanel -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:HomeToFAQ_page_test.faqLeft_Panel_navLink_test@431ab23]" name="afterMethod" is-config="true" duration-ms="69" started-at="2015-06-09T05:07:38Z" finished-at="2015-06-09T05:07:38Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:HomeToFAQ_page_test.faqLeft_Panel_navLink_test@17cd18d]" name="afterMethod" is-config="true" duration-ms="245" started-at="2015-07-02T10:03:08Z" finished-at="2015-07-02T10:03:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- HomeToFAQ_page_test.faqLeft_Panel_navLink_test -->
       <class name="HomeToFAQ_page_test.homeToFAQ_footer_nav_link">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:HomeToFAQ_page_test.homeToFAQ_footer_nav_link@5739ad1b]" name="beforeMethod" is-config="true" duration-ms="3814" started-at="2015-06-09T05:07:49Z" finished-at="2015-06-09T05:07:52Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:HomeToFAQ_page_test.homeToFAQ_footer_nav_link@14512e]" name="beforeMethod" is-config="true" duration-ms="6013" started-at="2015-07-02T10:03:28Z" finished-at="2015-07-02T10:03:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testFAQFooter()[pri:0, instance:HomeToFAQ_page_test.homeToFAQ_footer_nav_link@5739ad1b]" name="testFAQFooter" duration-ms="3314" started-at="2015-06-09T05:07:52Z" finished-at="2015-06-09T05:07:56Z">
+        <test-method status="PASS" signature="testFAQFooter()[pri:0, instance:HomeToFAQ_page_test.homeToFAQ_footer_nav_link@14512e]" name="testFAQFooter" duration-ms="6206" started-at="2015-07-02T10:03:34Z" finished-at="2015-07-02T10:03:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFAQFooter -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:HomeToFAQ_page_test.homeToFAQ_footer_nav_link@5739ad1b]" name="afterMethod" is-config="true" duration-ms="74" started-at="2015-06-09T05:07:56Z" finished-at="2015-06-09T05:07:56Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:HomeToFAQ_page_test.homeToFAQ_footer_nav_link@14512e]" name="afterMethod" is-config="true" duration-ms="192" started-at="2015-07-02T10:03:41Z" finished-at="2015-07-02T10:03:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- HomeToFAQ_page_test.homeToFAQ_footer_nav_link -->
     </test> <!-- Faq page of  IITBombayX -->
+    <test name="Course Structure of IITBombayX" duration-ms="77626" started-at="2015-07-02T04:33:49Z" finished-at="2015-07-02T04:35:07Z">
+      <class name="iitbombayX.TS04.TS04_TC01">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX.TS04.TS04_TC01@853e51]" name="beforeMethod" is-config="true" duration-ms="5706" started-at="2015-07-02T10:03:49Z" finished-at="2015-07-02T10:03:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="courseStructure()[pri:0, instance:iitbombayX.TS04.TS04_TC01@853e51]" name="courseStructure" duration-ms="34980" started-at="2015-07-02T10:03:55Z" finished-at="2015-07-02T10:04:30Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: {"method":"xpath","selector":"//ul[@id='ui-accordion-accordion-panel-0']/li[3]/a/p"}
+Command duration or timeout: 10.38 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: e4c67ca1-38f2-4ef1-bd4d-bc67481753ed
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=13.0.1}]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//ul[@id='ui-accordion-accordion-panel-0']/li[3]/a/p"}
+Command duration or timeout: 10.38 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: e4c67ca1-38f2-4ef1-bd4d-bc67481753ed
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=13.0.1}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at iitbombayX.TS04.TS04_TC01.courseStructure(TS04_TC01.java:43)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//ul[@id='ui-accordion-accordion-panel-0']/li[3]/a/p"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Driver info: driver.version: unknown
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous1052443741111086103webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9641)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous1052443741111086103webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- courseStructure -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX.TS04.TS04_TC01@853e51]" name="afterMethod" is-config="true" duration-ms="198" started-at="2015-07-02T10:04:30Z" finished-at="2015-07-02T10:04:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- iitbombayX.TS04.TS04_TC01 -->
+      <class name="iitbombayX.TS04.TS04_TC02">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX.TS04.TS04_TC02@1be4050]" name="beforeMethod" is-config="true" duration-ms="6226" started-at="2015-07-02T10:04:30Z" finished-at="2015-07-02T10:04:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="logout_fromAccount()[pri:0, instance:iitbombayX.TS04.TS04_TC02@1be4050]" name="logout_fromAccount" duration-ms="5714" started-at="2015-07-02T10:04:36Z" finished-at="2015-07-02T10:04:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout_fromAccount -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX.TS04.TS04_TC02@1be4050]" name="afterMethod" is-config="true" duration-ms="226" started-at="2015-07-02T10:04:42Z" finished-at="2015-07-02T10:04:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- iitbombayX.TS04.TS04_TC02 -->
+      <class name="iitbombayX.TS04.TS04_TC03">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX.TS04.TS04_TC03@24de67]" name="beforeMethod" is-config="true" duration-ms="5965" started-at="2015-07-02T10:04:42Z" finished-at="2015-07-02T10:04:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="findCourses()[pri:0, instance:iitbombayX.TS04.TS04_TC03@24de67]" name="findCourses" duration-ms="18419" started-at="2015-07-02T10:04:48Z" finished-at="2015-07-02T10:05:07Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: {"method":"link text","selector":"Demo Course"}
+Command duration or timeout: 10.78 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 6bdb56f3-a408-49f7-8e02-64d6f8db3f46
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=13.0.1}]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"link text","selector":"Demo Course"}
+Command duration or timeout: 10.78 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 6bdb56f3-a408-49f7-8e02-64d6f8db3f46
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=13.0.1}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByLinkText(RemoteWebDriver.java:401)
+	at org.openqa.selenium.By$ByLinkText.findElement(By.java:242)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at iitbombayX.TS04.TS04_TC03.findCourses(TS04_TC03.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"link text","selector":"Demo Course"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Driver info: driver.version: unknown
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous2119273128398755524webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9641)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous2119273128398755524webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findCourses -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX.TS04.TS04_TC03@24de67]" name="afterMethod" is-config="true" duration-ms="186" started-at="2015-07-02T10:05:07Z" finished-at="2015-07-02T10:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- iitbombayX.TS04.TS04_TC03 -->
+    </test> <!-- Course Structure of IITBombayX -->
+    <test name="Course videos of  IITBombayX" duration-ms="69705" started-at="2015-07-02T04:35:07Z" finished-at="2015-07-02T04:36:16Z">
+      <class name="iitbombayX.TS05.TS05_TC01">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX.TS05.TS05_TC01@176ed77]" name="beforeMethod" is-config="true" duration-ms="5959" started-at="2015-07-02T10:05:07Z" finished-at="2015-07-02T10:05:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="viewLecture_Video()[pri:0, instance:iitbombayX.TS05.TS05_TC01@176ed77]" name="viewLecture_Video" duration-ms="17852" started-at="2015-07-02T10:05:13Z" finished-at="2015-07-02T10:05:31Z">
+          <exception class="org.openqa.selenium.ElementNotVisibleException">
+            <message>
+              <![CDATA[Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.07 seconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 8951b4a8-3578-4582-a6f8-00c14e8e3485
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=13.0.1}]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.07 seconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 8951b4a8-3578-4582-a6f8-00c14e8e3485
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=13.0.1}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+	at iitbombayX.TS05.TS05_TC01.viewLecture_Video(TS05_TC01.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Driver info: driver.version: unknown
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous589847411064227339webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:8959)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous589847411064227339webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11618)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous589847411064227339webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11635)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous589847411064227339webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotVisibleException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewLecture_Video -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX.TS05.TS05_TC01@176ed77]" name="afterMethod" is-config="true" duration-ms="215" started-at="2015-07-02T10:05:31Z" finished-at="2015-07-02T10:05:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- iitbombayX.TS05.TS05_TC01 -->
+      <class name="iitbombayX.TS05.TS05_TC02">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX.TS05.TS05_TC02@18a3745]" name="beforeMethod" is-config="true" duration-ms="5747" started-at="2015-07-02T10:05:31Z" finished-at="2015-07-02T10:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="viewLect_transcript()[pri:0, instance:iitbombayX.TS05.TS05_TC02@18a3745]" name="viewLect_transcript" duration-ms="17132" started-at="2015-07-02T10:05:37Z" finished-at="2015-07-02T10:05:54Z">
+          <exception class="org.openqa.selenium.ElementNotVisibleException">
+            <message>
+              <![CDATA[Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.11 seconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 932562bf-3686-4a0a-86f1-230c532ce644
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=13.0.1}]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.11 seconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 932562bf-3686-4a0a-86f1-230c532ce644
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=13.0.1}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+	at iitbombayX.TS05.TS05_TC02.viewLect_transcript(TS05_TC02.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Driver info: driver.version: unknown
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous756040333937909974webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:8959)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous756040333937909974webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11618)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous756040333937909974webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11635)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous756040333937909974webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotVisibleException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewLect_transcript -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX.TS05.TS05_TC02@18a3745]" name="afterMethod" is-config="true" duration-ms="193" started-at="2015-07-02T10:05:54Z" finished-at="2015-07-02T10:05:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- iitbombayX.TS05.TS05_TC02 -->
+      <class name="iitbombayX.TS05.TS05_TC04">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:iitbombayX.TS05.TS05_TC04@132ca2b]" name="beforeMethod" is-config="true" duration-ms="6060" started-at="2015-07-02T10:05:54Z" finished-at="2015-07-02T10:06:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="download_transcript_video()[pri:0, instance:iitbombayX.TS05.TS05_TC04@132ca2b]" name="download_transcript_video" duration-ms="16352" started-at="2015-07-02T10:06:00Z" finished-at="2015-07-02T10:06:16Z">
+          <exception class="org.openqa.selenium.ElementNotVisibleException">
+            <message>
+              <![CDATA[Element is not currently visible and so may not be interacted with
+Command duration or timeout: 11.98 seconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 66fa7b42-9bc3-4d16-ad51-c345fea12e36
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=13.0.1}]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 11.98 seconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 66fa7b42-9bc3-4d16-ad51-c345fea12e36
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=13.0.1}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+	at iitbombayX.TS05.TS05_TC04.download_transcript_video(TS05_TC04.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ada2-PC', ip: '10.129.151.22', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Driver info: driver.version: unknown
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous2515053880064928952webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:8959)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous2515053880064928952webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11618)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous2515053880064928952webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:11635)
+	at <anonymous class>.<anonymous method>(file:///C:/Users/ada2/AppData/Local/Temp/anonymous2515053880064928952webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotVisibleException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- download_transcript_video -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:iitbombayX.TS05.TS05_TC04@132ca2b]" name="afterMethod" is-config="true" duration-ms="185" started-at="2015-07-02T10:06:16Z" finished-at="2015-07-02T10:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- iitbombayX.TS05.TS05_TC04 -->
+    </test> <!-- Course videos of  IITBombayX -->
   </suite> <!-- Automation Testing IITBombayX Using Selenium -->
 </testng-results>
